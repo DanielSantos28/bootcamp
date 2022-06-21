@@ -1,0 +1,21 @@
+ .flex{
+    max-width: 300px;
+    padding: 10px;
+    border: 2px solid black;
+    display: flex;
+
+}
+.item{
+    background-color: aqua;
+    margin: 5px;
+}
+/*flex-drection estabele o eixo principal
+do container
+row: à direção do texto esquerda pra direta
+row-reverse: direção oposta do row
+column: ordena em coluna de cima pra baixo
+column-reverse: ordena a coluna de baixo pra cima
+
+
+
+*/
